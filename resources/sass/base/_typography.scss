@@ -6,6 +6,20 @@ h1, h2, h3 {
     @apply font-bold leading-tight mt-0 mb-6 text-purple-900;
 }
 
+.rokkitt-400 {
+    font-family: 'Rokkitt';
+    font-weight: 400;
+}
+
+.rokkitt-700 {
+    font-family: 'Rokkitt';
+    font-weight: 700;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 .page-title {
 	@apply text-5xl;
 }
