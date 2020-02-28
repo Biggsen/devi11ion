@@ -15,11 +15,19 @@ module.exports = {
       black: '#000',
       white: '#fff',
 
-      seaGreen: '#2CA356',
       jungleGreen: {
         100: '#D8EEEA',
+        200: '#B2DED5',
         500: '#2CA58D',
         900: '#0C2D27',
+      },
+      seaGreen: {
+        50: '#EBF6EF',
+        100: '#D8EEE0',
+        200: '#B2DDC1',
+        300: '#78C493',
+        500: '#2CA356',
+        900: '#0C2D18',
       },
       stilDeGrainYellow: '#F4D35E',
       darkCoral: '#CF5C36',
