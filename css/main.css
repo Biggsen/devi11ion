@@ -709,6 +709,10 @@ body {
   }
 }
 
+.nav .active {
+  color: #CF5C36;
+}
+
 .mobile-nav-toggle .mobile-nav-icon-line {
   height: 2px;
 }
