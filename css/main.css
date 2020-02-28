@@ -709,6 +709,11 @@ body {
   }
 }
 
+#home .header {
+  background: transparent;
+  position: absolute;
+}
+
 .nav .active {
   color: #CF5C36;
 }
@@ -1158,6 +1163,16 @@ body {
 
 .mobile-nav .item:nth-child(100) {
   transition-delay: 6.75s;
+}
+
+.hero {
+  height: 500px;
+}
+
+.hero.bgImage {
+  background-image: url("../images/bg03-light.jpg");
+  background-size: cover;
+  background-position: 50% 25%;
 }
 
 .form .row {

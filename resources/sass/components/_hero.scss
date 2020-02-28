@@ -1,0 +1,11 @@
+
+//==========  Hero ==========//
+
+.hero {
+    height: 500px;
+    &.bgImage {
+        background-image: url('../images/bg03-light.jpg');
+        background-size: cover;
+        background-position: 50% 25%;
+    }
+}
