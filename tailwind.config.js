@@ -15,6 +15,21 @@ module.exports = {
       black: '#000',
       white: '#fff',
 
+      seaGreen: '#2CA356',
+      jungleGreen: {
+        100: '#D8EEEA',
+        500: '#2CA58D',
+        900: '#0C2D27',
+      },
+      stilDeGrainYellow: '#F4D35E',
+      darkCoral: '#CF5C36',
+      oxfordBlue: '#0A2342',
+      spanishBistre: '#6C743D',
+      orangeYellow: '#F3C969',
+      azureishWhite: '#CFE8EF',
+      lightGoldenrodYellow: '#F3F9D2',
+      chineseViolet: '#755C89',
+
       gray: {
         100: '#f7fafc',
         200: '#edf2f7',
