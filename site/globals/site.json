@@ -1,11 +1,11 @@
 {
-    "name": "Skeleventy",
+    "name": "Devi11ion",
     "url": "https://skeleventy.netlify.com",
     "author": {
-        "name": "Max Power",
-        "email": "hello@maxpower.com",
-        "handle": "@maxpower",
-        "avatar": "/images/blog/author.jpg"
+        "name": "Biggs Thorarensen",
+        "email": "biggs@devillion.com",
+        "handle": "@",
+        "avatar": ""
     },
     "images": {
         "logo": "/images/logo/logo.svg",
