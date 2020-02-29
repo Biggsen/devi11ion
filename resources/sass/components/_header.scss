@@ -1,7 +1,12 @@
 
 //==========  Header ==========//
 
-.header {
+.header-wrapper {
+    &.bgImage {
+        background-image: url('../images/bg03-light.jpg');
+        background-size: cover;
+        background-position: 50% 25%;
+    }
     #home & {
         background: transparent;
     }
